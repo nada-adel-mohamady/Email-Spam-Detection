@@ -1,2 +1,2 @@
 # Email-Spam-Detection
-ML model that detect spam, ham emails using Python
+ML model that detects spam/ham emails using Python
